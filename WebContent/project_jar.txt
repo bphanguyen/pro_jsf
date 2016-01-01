@@ -1,0 +1,15 @@
+//Lib jars for EJB projects
+//Lib jars to put into glassfish domain folder 'lib/ext'
+//glassfish4\glassfish\domains\domainName\lib\ext
+
+bonecp-0.8.0.RELEASE.jar
+guava-13.0.1.jar
+hibernate-annotations-3.5.6-Final.jar
+hibernate-core-5.0.6.Final.jar
+hibernate-entitymanager-5.0.6.Final.jar
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+jboss-logging-3.3.0.Final.jar
+jta-1.1.jar
+mysql-connector-java-5.1.38-bin.jar
+persistence-api-1.0.2.jar
+slf4j-api-1.6.6.jar
